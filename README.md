@@ -1,2 +1,2 @@
 # mygeop
-My visited geoplaces
+Application with my visited places
